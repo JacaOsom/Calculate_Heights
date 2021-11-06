@@ -1,0 +1,15 @@
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\bin\Debug\net5.0\CalculateHeights_CSharp.exe
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\bin\Debug\net5.0\CalculateHeights_CSharp.deps.json
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\bin\Debug\net5.0\CalculateHeights_CSharp.runtimeconfig.json
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\bin\Debug\net5.0\CalculateHeights_CSharp.runtimeconfig.dev.json
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\bin\Debug\net5.0\CalculateHeights_CSharp.dll
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\bin\Debug\net5.0\ref\CalculateHeights_CSharp.dll
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\bin\Debug\net5.0\CalculateHeights_CSharp.pdb
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\obj\Debug\net5.0\CalculateHeights_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\obj\Debug\net5.0\CalculateHeights_CSharp.AssemblyInfoInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\obj\Debug\net5.0\CalculateHeights_CSharp.AssemblyInfo.cs
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\obj\Debug\net5.0\CalculateHeights_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\obj\Debug\net5.0\CalculateHeights_CSharp.dll
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\obj\Debug\net5.0\ref\CalculateHeights_CSharp.dll
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\obj\Debug\net5.0\CalculateHeights_CSharp.pdb
+C:\Users\jacek\Desktop\WorkSpace\c#\CalculateHeights_CSharp\obj\Debug\net5.0\CalculateHeights_CSharp.genruntimeconfig.cache
